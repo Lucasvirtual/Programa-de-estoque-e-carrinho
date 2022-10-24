@@ -1,0 +1,1 @@
+Programa de estoque e carrinho, solicitado pelo Professor Gean Paulo, desenvolvido por Lucas Almeida(Lucasvirtual), Kaio Brenner(KaioBrenner), Gabriel Sales(Gabrielsales8)
